@@ -14,3 +14,6 @@ function atBottom(el) {
     isVisible = elemTop < (window.innerHeight+3000) && elemBottom >= 0;
     return isVisible;
 }
+window.onload = function(){
+	window.scroll(0,1);
+}
