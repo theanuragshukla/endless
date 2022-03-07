@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+scroll-behaviour:smooth;
+}
+.main {
+	width: 100vw;
+	height: auto;
+	min-height:100vh;
+
+}
+.end {
+	height: 100px;
+	width: 100vw;
+}
